@@ -8,10 +8,10 @@ input "ionic serve" and begin to chat!
 This is the result:
 
 
-！[image](https://github.com/cynthiaguan/onlinechatting/blob/master/gif/result1.jpg)
+Screenshot1 :[image](https://github.com/cynthiaguan/onlinechatting/blob/master/gif/result1.jpg)
 
 
 
-！[image](https://github.com/cynthiaguan/onlinechatting/blob/master/gif/result2.jpg)
+Screenshhot2: [image](https://github.com/cynthiaguan/onlinechatting/blob/master/gif/result2.jpg)
 
 
