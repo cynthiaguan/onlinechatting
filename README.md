@@ -1,5 +1,5 @@
 # onlinechatting
-a real time chatting using ionic3 and aangufire2
+a real time chatting using ionic3 and angufire2
 
 refer to https://www.youtube.com/watch?v=VUNkjQ_k2Uc
 
